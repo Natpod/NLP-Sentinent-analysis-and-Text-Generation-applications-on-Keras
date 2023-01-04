@@ -1,6 +1,6 @@
 # NLP-Sentinent-analysis-and-Text-Generation-applications-on-Keras
 
-This repository contains a `NLP_implementations_crashcourse` Jupyter Notebook code for several NLP implementations on Keras. Feel free to navigate the code and have fun learning NLP from scratch while you are at it!! 
+This repository contains a `NLP_implementations_crashcourse.ipynb` Jupyter Notebook code for several NLP implementations on Keras. Feel free to navigate the code and have fun learning NLP from scratch while you are at it!! 
 
 You could be generating songs like the following with this code:
 
